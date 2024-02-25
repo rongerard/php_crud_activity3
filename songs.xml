@@ -1,0 +1,122 @@
+<?xml version = "1.0"?>
+  
+
+ <songs>
+            <song song_code="1">
+                <imagePath>/images/1.png</imagePath>
+                <title>Cutie Uyyy</title>
+                <genre>Rap</genre>
+                <album>Single</album>
+                <singers>
+                    <singer>Soulthrll</singer>
+                    <singer>Castro</singer>
+                </singers>
+            </song>
+            <song song_code="4">
+                <imagePath>/images/2.png</imagePath>
+                <title>Cruel Summer</title>
+                <genre>Pop</genre>
+                <album>Lover</album>
+                <singers>
+                    <singer>Taylor Swift</singer>
+                    <singer>Nicki Minaj</singer>
+                </singers>
+            </song>
+            <song song_code="3">
+                <imagePath>/images/3.png</imagePath>
+                <title>Bad Example</title>
+                <genre>Pop</genre>
+                <album>2019-2021</album>
+                <singers>
+                    <singer>Takayan</singer>
+                    <singer>Randy Daddy</singer>
+                </singers>
+            </song>
+
+
+            <song song_code="Mus_4">
+                <imagePath>/images/4.png</imagePath>
+                <title>Limbo</title>
+                <genre>Pop</genre>
+                <album>Gabriel</album>
+                <singers>
+                    <singer>Keshi</singer>
+                    <singer>Slipknot</singer>
+                </singers>
+            </song>
+
+
+            <song song_code="Mus_5">
+                <imagePath>/images/5.png</imagePath>
+                <title>Brazillian Phonk Mano</title>
+                <genre>Hip-Hop</genre>
+                <album>Single</album>
+                <singers>
+                    <singer>SlowBoy</singer>
+                    <singer>Fastboy</singer>
+                </singers>
+            </song>
+
+
+            <song song_code="Mus_6">
+                <imagePath>/images/6.png</imagePath>
+                <imagePath>phonk.png</imagePath>
+                <title>Knockin on Heaven Door</title>
+                <genre>Heavy Metal</genre>
+                <album>The Spaghetti Incident</album>
+                <singers>
+                    <singer>Gun n Roses</singer>
+                    <singer>Example</singer>
+                </singers>
+            </song>
+
+
+            <song song_code="Mus_7">
+                <imagePath>/images/7.png</imagePath>
+                <title>Love in the Dark</title>
+                <genre>Pop</genre>
+                <album>Adele 25</album>
+                <singers>
+                    <singer>Adele</singer>
+                    <singer>eledA</singer>
+                </singers>
+            </song>
+
+
+            <song song_code="Mus_8">
+                <imagePath>/images/8.png</imagePath>
+                <title>Locked Out Of Heaven</title>
+                <genre>Pop-Rock</genre>
+                <album>Unorthodox Jukebox</album>
+                <singers>
+                    <singer>Bruno Mars</singer>
+                    <singer>Bruno Moon</singer>
+                </singers>
+            </song>
+
+
+            <song song_code="Mus_9">
+                <imagePath>/images/9.png</imagePath>
+                <title>Bed of Roses</title>
+                <genre>Rock</genre>
+                <album>Keep the Faith</album>
+                <singers>
+                    <singer>Bon Jovi</singer>
+                    <singer>Fraun</singer>
+                </singers>
+            </song>
+
+
+            <song song_code="Mus_10">
+                <imagePath>/images/10.png</imagePath>
+                <title>Open Arms</title>
+                <genre>Hard Rock</genre>
+                <album>Escape</album>
+                <singers>
+                    <singer>Journey</singer>
+                    <singer>Edgar</singer>
+                </singers>
+            </song>
+
+
+        </songs>
